@@ -1,0 +1,21 @@
+ap kisi machine ko ai detay hain
+symbolic ai koi bhi domain expert 
+
+machine learning 
+maachine ko ap data detay hain machine uski maping khud sikhti thi
+featuring enginering manual krna prhti thi
+agar m bht sary coloum dy do ghr ky price krlein
+tablet data pe asan tha 
+feature nikalna mushkil tha 
+cat ki image ky
+
+neuorl network machine ki picture dekhatahoon tu dekhtay h data
+artifical neuorl network na data acha tha 
+
+(image net ) data set 
+hardware nh thy GPU aya 
+
+dataset hardware GPU sb agaya hamary pas
+bigdata dein woh usko sikhega 
+machine learning enginer ki zindagi asan hogaye
+
